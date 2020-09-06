@@ -1,6 +1,16 @@
 
 # HI, I'm olof
 
-## I'm currently studying webb development at Mittuniversitet of Sweden
+## I'm currently studying web development at Mittuniversitet of Sweden
 
-### On this site I will upload assignments and m own projects
+### On this site I will upload assignments and my own projects
+
+#### Some of the programming languages I use
+
+* Html/css
+
+* Javascript
+
+* PHP
+
+
